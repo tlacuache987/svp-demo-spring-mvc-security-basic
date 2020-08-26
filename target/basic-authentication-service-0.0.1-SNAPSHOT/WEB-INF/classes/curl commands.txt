@@ -1,5 +1,0 @@
-# Authorized
-curl --user xvanhalenx:123123 http://localhost:8080/6-spring-mvc-security-basic-javaconfig-rest/welcome -v
-
-# Unauthorized
-curl http://localhost:8080/6-spring-mvc-security-basic-javaconfig-rest/welcome -v
